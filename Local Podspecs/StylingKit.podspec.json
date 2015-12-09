@@ -1,0 +1,25 @@
+{
+  "name": "StylingKit",
+  "version": "0.1.0",
+  "summary": "A short description of StylingKit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/StylingKit",
+  "license": "MIT",
+  "authors": {
+    "Anton Matosov": "anton.matosov@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/StylingKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "StylingKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
