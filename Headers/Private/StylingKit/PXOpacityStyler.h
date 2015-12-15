@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXOpacityStyler.h
+../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXOpacityStyler.h

@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXMPVolumeView.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXMPVolumeView.h

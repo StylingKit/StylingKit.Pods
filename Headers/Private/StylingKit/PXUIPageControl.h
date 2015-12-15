@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUIPageControl.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUIPageControl.h

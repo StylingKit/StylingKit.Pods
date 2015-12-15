@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/CG/Shapes/PXPath.h
+../../../../../Pod/freestyle/src/Core/CG/Shapes/PXPath.h

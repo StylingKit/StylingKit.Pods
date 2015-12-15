@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUIImageView.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUIImageView.h

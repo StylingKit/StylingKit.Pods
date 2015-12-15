@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/CG/Math/PXOffsets.h
+../../../../../Pod/freestyle/src/Core/CG/Math/PXOffsets.h

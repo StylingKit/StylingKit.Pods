@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/Virtual/UITabBarItem+PXStyling.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/Virtual/UITabBarItem+PXStyling.h

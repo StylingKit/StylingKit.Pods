@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/CG/Shapes/PXText.h
+../../../../../Pod/freestyle/src/Core/CG/Shapes/PXText.h

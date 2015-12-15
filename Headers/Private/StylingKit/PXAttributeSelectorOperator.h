@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Selectors/PXAttributeSelectorOperator.h
+../../../../../Pod/freestyle/src/Core/Styling/Selectors/PXAttributeSelectorOperator.h

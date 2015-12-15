@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Combinators/PXChildCombinator.h
+../../../../../Pod/freestyle/src/Core/Styling/Combinators/PXChildCombinator.h

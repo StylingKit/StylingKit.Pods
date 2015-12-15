@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Infos/PXFontInfo.h
+../../../../../Pod/freestyle/src/Core/Styling/Infos/PXFontInfo.h

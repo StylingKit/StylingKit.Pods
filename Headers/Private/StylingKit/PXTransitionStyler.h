@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXTransitionStyler.h
+../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXTransitionStyler.h

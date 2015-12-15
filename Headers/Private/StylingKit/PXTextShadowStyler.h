@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXTextShadowStyler.h
+../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXTextShadowStyler.h

@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Version.h
+../../../../../Pod/freestyle/src/Version.h

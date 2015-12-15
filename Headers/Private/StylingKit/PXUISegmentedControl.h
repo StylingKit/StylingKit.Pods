@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUISegmentedControl.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUISegmentedControl.h

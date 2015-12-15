@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUITableViewDelegate.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUITableViewDelegate.h

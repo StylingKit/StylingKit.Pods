@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Categories/NSScanner+PXFloat.h
+../../../../../Pod/freestyle/src/Core/Categories/NSScanner+PXFloat.h

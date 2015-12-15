@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXInsetStyler.h
+../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXInsetStyler.h

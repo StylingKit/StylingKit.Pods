@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUISlider.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUISlider.h

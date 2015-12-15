@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/CG/Strokes/PXStrokeStroke.h
+../../../../../Pod/freestyle/src/Core/CG/Strokes/PXStrokeStroke.h

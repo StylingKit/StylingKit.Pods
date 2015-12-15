@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUICollectionView.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUICollectionView.h

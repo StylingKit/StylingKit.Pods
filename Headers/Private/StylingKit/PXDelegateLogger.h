@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Logging/PXDelegateLogger.h
+../../../../../Pod/freestyle/src/Core/Logging/PXDelegateLogger.h

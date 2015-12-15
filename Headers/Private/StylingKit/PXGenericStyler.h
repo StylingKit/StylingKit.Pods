@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXGenericStyler.h
+../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXGenericStyler.h

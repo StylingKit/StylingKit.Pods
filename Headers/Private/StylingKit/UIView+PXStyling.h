@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Categories/UIView+PXStyling.h
+../../../../../Pod/freestyle/src/Core/Styling/Categories/UIView+PXStyling.h

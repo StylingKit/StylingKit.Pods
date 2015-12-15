@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Infos/PXAnimationInfo.h
+../../../../../Pod/freestyle/src/Core/Styling/Infos/PXAnimationInfo.h

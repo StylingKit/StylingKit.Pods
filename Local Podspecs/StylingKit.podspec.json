@@ -37,8 +37,8 @@
     },
     {
       "name": "Freestyle",
-      "prefix_header_file": "Pod/Classes/freestyle/src/pixate-freestyle-Prefix.pch",
-      "source_files": "Pod/Classes/freestyle/src/**/*",
+      "prefix_header_file": "Pod/freestyle/src/pixate-freestyle-Prefix.pch",
+      "source_files": "Pod/freestyle/src/**/*.{h,m,c}",
       "requires_arc": true,
       "dependencies": {
         "StylingKit/MAFuture": [
@@ -57,8 +57,8 @@
     },
     {
       "name": "MAFuture",
-      "prefix_header_file": "Pod/Classes/freestyle/src/pixate-freestyle-Prefix.pch",
-      "source_files": "Pod/Classes/freestyle/Third-Party/MAFuture/*.{h,m}",
+      "prefix_header_file": "Pod/freestyle/src/pixate-freestyle-Prefix.pch",
+      "source_files": "Pod/freestyle/Third-Party/MAFuture/*.{h,m}",
       "requires_arc": false
     }
   ]

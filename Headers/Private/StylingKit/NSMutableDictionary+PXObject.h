@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Categories/NSMutableDictionary+PXObject.h
+../../../../../Pod/freestyle/src/Core/Styling/Categories/NSMutableDictionary+PXObject.h

@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUITableViewCell.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUITableViewCell.h

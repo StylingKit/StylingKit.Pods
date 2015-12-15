@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Kernel/Categories/NSObject+PXClass.h
+../../../../../Pod/freestyle/src/Kernel/Categories/NSObject+PXClass.h

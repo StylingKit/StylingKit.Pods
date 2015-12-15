@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/PXDeclarationContainer.h
+../../../../../Pod/freestyle/src/Core/Styling/PXDeclarationContainer.h

@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUIActivityIndicatorView.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUIActivityIndicatorView.h

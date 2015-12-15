@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUISwitch.h
+../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUISwitch.h

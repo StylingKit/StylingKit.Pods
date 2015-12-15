@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/freestyle/src/Core/Styling/Categories/NSArray+Reverse.h
+../../../../../Pod/freestyle/src/Core/Styling/Categories/NSArray+Reverse.h
