@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
 
+#import "StylingKit.h"
 #import "NSMutableArray+StackAdditions.h"
 #import "NSScanner+PXFloat.h"
 #import "PXForceLoadPixateCategories.h"
