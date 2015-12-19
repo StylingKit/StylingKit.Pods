@@ -29,6 +29,7 @@
           "Pod/Assets/*.png"
         ]
       },
+      "preserve_paths": "NOTICE",
       "dependencies": {
         "StylingKit/Freestyle": [
 

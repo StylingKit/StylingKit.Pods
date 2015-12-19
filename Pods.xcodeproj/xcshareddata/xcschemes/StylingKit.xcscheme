@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B1DAC57E53817944ED9F26F2FA20B699"
-               BlueprintName = "StylingKit"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "StylingKit.framework">
+               BuildableIdentifier = 'primary'
+               BlueprintIdentifier = '8F5766787E75A2AD981C18BE'
+               BlueprintName = 'StylingKit'
+               ReferencedContainer = 'container:Pods.xcodeproj'
+               BuildableName = 'StylingKit.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
