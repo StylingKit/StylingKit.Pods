@@ -215,10 +215,4 @@ framework module StylingKit {
   private header "UITabBarItem+PXStyling.h"
   private header "PixateFreestyle.h"
   private header "Version.h"
-  private header "MABaseFuture.h"
-  private header "MACompoundFuture.h"
-  private header "MAFuture.h"
-  private header "MAFutureInternal.h"
-  private header "MAMethodSignatureCache.h"
-  private header "MAProxy.h"
 }
