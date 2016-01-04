@@ -45,9 +45,6 @@
       "dependencies": {
         "StylingKit/MAFuture": [
 
-        ],
-        "CocoaLumberjack": [
-          "~> 2.2.0"
         ]
       },
       "frameworks": [
@@ -63,6 +60,20 @@
       "source_files": "Pod/freestyle/Third-Party/MAFuture/*.{h,m}",
       "private_header_files": "Pod/freestyle/Third-Party/MAFuture/*.h",
       "requires_arc": false
+    },
+    {
+      "name": "WithLogging",
+      "dependencies": {
+        "StylingKit/All": [
+
+        ],
+        "CocoaLumberjack": [
+          "~> 2.2.0"
+        ]
+      },
+      "xcconfig": {
+        "GCC_PREPROCESSOR_DEFINITIONS": "PX_LOGGING=1"
+      }
     }
   ]
 }
