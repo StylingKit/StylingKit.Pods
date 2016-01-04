@@ -60,7 +60,6 @@
     },
     {
       "name": "MAFuture",
-      "prefix_header_file": "Pod/freestyle/src/pixate-freestyle-Prefix.pch",
       "source_files": "Pod/freestyle/Third-Party/MAFuture/*.{h,m}",
       "private_header_files": "Pod/freestyle/Third-Party/MAFuture/*.h",
       "requires_arc": false
