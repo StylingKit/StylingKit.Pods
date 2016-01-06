@@ -205,6 +205,7 @@ framework module StylingKit {
   private header "PXUIView.h"
   private header "PXUIWebView.h"
   private header "PXUIWindow.h"
+  private header "STK_UIAlertControllerView.h"
   private header "PXForceLoadVirtualCategories.h"
   private header "PXVirtualControl.h"
   private header "PXVirtualStyleableControl.h"
