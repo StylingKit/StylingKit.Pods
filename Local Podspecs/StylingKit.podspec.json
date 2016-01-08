@@ -18,11 +18,11 @@
   "platforms": {
     "ios": "8.1"
   },
-  "default_subspecs": "All",
+  "default_subspecs": "Main",
   "subspecs": [
     {
-      "name": "All",
-      "source_files": "Pod/Classes/**/*",
+      "name": "Main",
+      "source_files": "Pod/Classes/**/*.{h,m,c}",
       "resource_bundles": {
         "StylingKit": [
           "Pod/Assets/*.png"
@@ -51,7 +51,7 @@
     {
       "name": "WithLogging",
       "dependencies": {
-        "StylingKit/All": [
+        "StylingKit/Main": [
 
         ],
         "CocoaLumberjack": [
@@ -61,6 +61,18 @@
       "xcconfig": {
         "GCC_PREPROCESSOR_DEFINITIONS": "PX_LOGGING=1"
       }
+    },
+    {
+      "name": "Cloud",
+      "dependencies": {
+        "StylingKit/Main": [
+
+        ],
+        "GCDWebServer": [
+          "~> 3"
+        ]
+      },
+      "source_files": "Pod/Cloud/**/*.{h,m,c}"
     }
   ]
 }

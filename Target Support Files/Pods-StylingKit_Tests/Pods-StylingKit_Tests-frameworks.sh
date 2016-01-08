@@ -85,12 +85,14 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-StylingKit_Tests/CocoaLumberjack.framework"
+  install_framework "Pods-StylingKit_Tests/GCDWebServer.framework"
   install_framework "Pods-StylingKit_Tests/StylingKit.framework"
   install_framework "Pods-StylingKit_Tests/FBSnapshotTestCase.framework"
   install_framework "Pods-StylingKit_Tests/Kiwi.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-StylingKit_Tests/CocoaLumberjack.framework"
+  install_framework "Pods-StylingKit_Tests/GCDWebServer.framework"
   install_framework "Pods-StylingKit_Tests/StylingKit.framework"
   install_framework "Pods-StylingKit_Tests/FBSnapshotTestCase.framework"
   install_framework "Pods-StylingKit_Tests/Kiwi.framework"
