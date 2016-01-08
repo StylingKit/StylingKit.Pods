@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXColorStyler.h
+../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXColorStyler.h

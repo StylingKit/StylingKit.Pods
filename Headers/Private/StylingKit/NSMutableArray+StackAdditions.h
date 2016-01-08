@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Core/Categories/NSMutableArray+StackAdditions.h
+../../../../../Pod/Classes/freestyle/src/Core/Categories/NSMutableArray+StackAdditions.h

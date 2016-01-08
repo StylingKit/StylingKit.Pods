@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Core/PixateFreestyleConfiguration.h
+../../../../../Pod/Classes/freestyle/src/Core/PixateFreestyleConfiguration.h

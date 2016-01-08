@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUISearchBar.h
+../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUISearchBar.h

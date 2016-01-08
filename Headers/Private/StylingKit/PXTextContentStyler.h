@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Core/Styling/Stylers/PXTextContentStyler.h
+../../../../../Pod/Classes/freestyle/src/Core/Styling/Stylers/PXTextContentStyler.h

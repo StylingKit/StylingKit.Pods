@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Modules/UIModule/Controls/PXUITabBar.h
+../../../../../Pod/Classes/freestyle/src/Modules/UIModule/Controls/PXUITabBar.h

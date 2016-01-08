@@ -1,1 +1,1 @@
-../../../../../Pod/freestyle/src/Core/Styling/Infos/PXBorderInfo.h
+../../../../../Pod/Classes/freestyle/src/Core/Styling/Infos/PXBorderInfo.h
