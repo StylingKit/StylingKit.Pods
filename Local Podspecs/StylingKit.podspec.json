@@ -55,7 +55,7 @@
 
         ],
         "CocoaLumberjack": [
-          "~> 2.2.0"
+          "~> 2"
         ]
       },
       "xcconfig": {
@@ -68,7 +68,7 @@
         "StylingKit/Main": [
 
         ],
-        "GCDWebServer": [
+        "GCDWebServer/WebDAV/CocoaLumberjack": [
           "~> 3"
         ]
       },
