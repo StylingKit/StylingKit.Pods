@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 
-#import "Cloud.h"
+#import "STKCloud.h"
 #import "StylingKit.h"
 
 FOUNDATION_EXPORT double StylingKitVersionNumber;
