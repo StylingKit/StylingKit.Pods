@@ -64,7 +64,6 @@
 		13C48CD58AC41A8794693174AE433DC9 /* DDASLLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 54C181EDBEFC70E9E87D79547023FD5E /* DDASLLogger.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		1467305E92437AF23051250723B38C0A /* KWAfterEachNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 8365B220FD0151064891A2B6695E722A /* KWAfterEachNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		14B58FF35072C13E48468C9FB9D61650 /* PXUISegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 617A0350A94926104EBBE47878B0970F /* PXUISegmentedControl.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		14FDBF7668EBA25B01E5B6425E6BB75B /* STKCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = 86201B442095CAE9A75AE2D1722BCED1 /* STKCloud.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15645973CF93210A0D7D6D3E7BDF840B /* NSObject+KiwiMockAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0607896AC8C8C091E5499D5D5F706585 /* NSObject+KiwiMockAdditions.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-all-checks"; }; };
 		1579285CBAF38C387C27BF0F3E85266C /* KWChangeMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 93ADDDC040489047CBC141B3C977504B /* KWChangeMatcher.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-all-checks"; }; };
 		15AA88D74EC6EEEE04E19D13393BE445 /* PXTypeSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = B4FD36F10DE6D3E20BC85688723A4F6B /* PXTypeSelector.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -99,7 +98,6 @@
 		1E6C123F9D829E3B8EF9B4194A3B371B /* PXUITableViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 08E3C08E6149C36077959F2DB4793E76 /* PXUITableViewDelegate.m */; };
 		1E7094E0FF892089EB5AA6B0486BA9B7 /* KWAfterAllNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CF86C5358A4CDD6E23AEECB64276F21 /* KWAfterAllNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1E83685B922CA0FB164778FED238B79D /* KWInvocationCapturer.h in Headers */ = {isa = PBXBuildFile; fileRef = C5E5B75D0AA11BFA06E973E3FB9B7BFD /* KWInvocationCapturer.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1EA72C664FC3C26BD29AA2A064F94A26 /* STKCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 397999E8E1122D8F994B6F93F2E9429D /* STKCloud.m */; };
 		1F0112F8C6E60835979A31905B1195B8 /* KWStringUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 11DBDFCDFD3B40A00ED3A2446F2E1B6C /* KWStringUtilities.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-all-checks"; }; };
 		1F118728B3D74089480152A6B660EA9A /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 282E58AB9BE6C78F80AE0A06AF15D005 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		1F49E397D7E2D6F0F2FA74A38A1822F1 /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 31578C050A9E6F7B056D8F4BD051C7E1 /* DDFileLogger.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
@@ -443,6 +441,8 @@
 		9E9CA8AF2256158588CAAD6EC76E2E7D /* KWAfterEachNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAA63E790EF9D6F5BFDC06751BAB3DA /* KWAfterEachNode.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-all-checks"; }; };
 		9EC032DAD22023B0F599D42079AC2F76 /* NSMutableDictionary+PXObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D00A18D99057EDD3307290372541498 /* NSMutableDictionary+PXObject.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		A07317F0C8BDCCD7127E62EBE188366F /* PXNotPseudoClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC17C18990871CD2A5B97C0A778612DA /* PXNotPseudoClass.m */; };
+		A09422F9C75BA7D16BAD23D6 /* STKCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = A094253CFB590114E9675625 /* STKCloud.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A09428AFFE0235522E4752EC /* STKCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = A0942821654AACA0F59FB363 /* STKCloud.m */; };
 		A0E32E29722CBE192BA40EA3705C548A /* PXSourceEmitter.h in Headers */ = {isa = PBXBuildFile; fileRef = 005BEB96C679FD53C4B300EAA64D5C4F /* PXSourceEmitter.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		A0F74CD4CCE55D0C8D3C4E6A80C98038 /* PXArc.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E37C2AC0748D66336417DA3A46908A /* PXArc.m */; };
 		A17D94710C66D0BB5C488A3250C68815 /* GCDWebServerConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 923AD53C81A17FD79F0E703F789D49B0 /* GCDWebServerConnection.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
@@ -961,7 +961,6 @@
 		38C07A1E114D0FC477F51E39AA879515 /* KWBlockRaiseMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWBlockRaiseMatcher.h; path = Classes/Matchers/KWBlockRaiseMatcher.h; sourceTree = "<group>"; };
 		38DE1E070A1D2BAECA9DC48B42693F62 /* KWContextNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWContextNode.h; path = Classes/Nodes/KWContextNode.h; sourceTree = "<group>"; };
 		38FCD5EC929A9094B6751D5D281B5801 /* PXFontStyler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PXFontStyler.h; sourceTree = "<group>"; };
-		397999E8E1122D8F994B6F93F2E9429D /* STKCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = STKCloud.m; sourceTree = "<group>"; };
 		397C643FA4160EB5B3132C9E22C4C793 /* PXUILayoutContainerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PXUILayoutContainerView.m; sourceTree = "<group>"; };
 		39F66B7C2A4F55264A620641EBB9F6D5 /* KWValue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWValue.h; path = Classes/Core/KWValue.h; sourceTree = "<group>"; };
 		3A94C74B73D437948D3EFDF3FA8DD130 /* PXRenderable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PXRenderable.h; sourceTree = "<group>"; };
@@ -1185,7 +1184,6 @@
 		858C7A1076A4537EF86D2C14F1C11A2B /* Kiwi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Kiwi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E676A5ACD7D0A599762033639498FE /* PXStyleUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PXStyleUtils.m; sourceTree = "<group>"; };
 		85FB666CB632697FEB4A1A2E5B563292 /* KWCallSite.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWCallSite.h; path = Classes/Core/KWCallSite.h; sourceTree = "<group>"; };
-		86201B442095CAE9A75AE2D1722BCED1 /* STKCloud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = STKCloud.h; sourceTree = "<group>"; };
 		86405948C56505B2D16DB1B96304470F /* KWSpec.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWSpec.m; path = Classes/Core/KWSpec.m; sourceTree = "<group>"; };
 		866BD4CDE662F65D54F37C236EF4EF0D /* KWSharedExample.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWSharedExample.m; path = "Classes/Shared Examples/KWSharedExample.m"; sourceTree = "<group>"; };
 		87C9B428F70CA5C22A4BC92E68468608 /* PXUIPickerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PXUIPickerView.m; sourceTree = "<group>"; };
@@ -1258,6 +1256,8 @@
 		9F5D691A0B4D3A2BD59C25D4627CCC40 /* KWSymbolicator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWSymbolicator.m; path = Classes/Core/KWSymbolicator.m; sourceTree = "<group>"; };
 		9FC1A2EBDD195A58CBC295A406156D00 /* KWStringPrefixMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWStringPrefixMatcher.h; path = Classes/Matchers/KWStringPrefixMatcher.h; sourceTree = "<group>"; };
 		A0423E15B4379BD900D495C5A2DC1A19 /* PXViewUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PXViewUtils.h; sourceTree = "<group>"; };
+		A094253CFB590114E9675625 /* STKCloud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = STKCloud.h; path = Pod/Classes/Cloud/STKCloud.h; sourceTree = "<group>"; };
+		A0942821654AACA0F59FB363 /* STKCloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = STKCloud.m; path = Pod/Classes/Cloud/STKCloud.m; sourceTree = "<group>"; };
 		A0EFF0F975A4420ABDB6A1853CDB0885 /* KWFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWFormatter.m; path = Classes/Core/KWFormatter.m; sourceTree = "<group>"; };
 		A115C676BDAAC9DC11219BDCFE6B2F81 /* GCDWebServerFileResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GCDWebServerFileResponse.h; path = GCDWebServer/Responses/GCDWebServerFileResponse.h; sourceTree = "<group>"; };
 		A12093C6205EB64C9520867326D72595 /* PXUITabBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PXUITabBar.m; sourceTree = "<group>"; };
@@ -1706,6 +1706,8 @@
 			isa = PBXGroup;
 			children = (
 				ECB3F05746A8E1B82B01B75A2BF1B6BB /* Pod */,
+				A094253CFB590114E9675625 /* STKCloud.h */,
+				A0942821654AACA0F59FB363 /* STKCloud.m */,
 			);
 			name = Main;
 			sourceTree = "<group>";
@@ -2547,8 +2549,6 @@
 		A32A535330945D7E6C9E079FCB0DBB59 /* Cloud */ = {
 			isa = PBXGroup;
 			children = (
-				86201B442095CAE9A75AE2D1722BCED1 /* STKCloud.h */,
-				397999E8E1122D8F994B6F93F2E9429D /* STKCloud.m */,
 			);
 			path = Cloud;
 			sourceTree = "<group>";
@@ -3170,7 +3170,6 @@
 				8B47BB1CFDAE87C93AA0A4A394975DB8 /* PXWeakWrapper.h in Headers */,
 				7636F2CA1F7FBBC64B14FAC1EEC3173A /* PXWordMatcher.h in Headers */,
 				909AE9379E53A1A0545D9E2FA4E1059D /* STK_UIAlertControllerView.h in Headers */,
-				14FDBF7668EBA25B01E5B6425E6BB75B /* STKCloud.h in Headers */,
 				1B3817ED65CAF783167294283CC220DA /* StylingKit-umbrella.h in Headers */,
 				7E318127C7E2A364CEC4E8E587B598AA /* StylingKit.h in Headers */,
 				5048EB47C2D36FF9ED85C48189C9DDAD /* UIBarButtonItem+PXStyling-Private.h in Headers */,
@@ -3182,6 +3181,7 @@
 				4393C310C3741E5A553FFA3A626A2A4A /* UIView+PXStyling-Private.h in Headers */,
 				7ED713D787379A0AE3FF099BC74666BA /* UIView+PXStyling.h in Headers */,
 				604FEF9E5C4E2B20E087E7AA66E3F5E9 /* Version.h in Headers */,
+				A09422F9C75BA7D16BAD23D6 /* STKCloud.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3721,7 +3721,6 @@
 				8622EEC6627A493EE5729665FABF1B87 /* PXWeakWrapper.m in Sources */,
 				C548EA6684713BF9A16D83AEBCA06DA9 /* PXWordMatcher.m in Sources */,
 				6F758DD62C4B02B135E972018B9B2256 /* STK_UIAlertControllerView.m in Sources */,
-				1EA72C664FC3C26BD29AA2A064F94A26 /* STKCloud.m in Sources */,
 				6DD1EC347435720F23D786243483C390 /* StylingKit-dummy.m in Sources */,
 				9064A3A44697001187CC244228364381 /* StylingKit.m in Sources */,
 				7F5B67F749E855AF6D37907248D90B9E /* UIBarButtonItem+PXStyling.m in Sources */,
@@ -3730,6 +3729,7 @@
 				1A48FFFAA98E15DDB9CAFD6B723687BA /* UINavigationItem+PXStyling.m in Sources */,
 				137A60E923B0BEDE2A403527AFF71159 /* UITabBarItem+PXStyling.m in Sources */,
 				5213833E7B02B01CE71C265EA1439AD2 /* UIView+PXStyling.m in Sources */,
+				A09428AFFE0235522E4752EC /* STKCloud.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
