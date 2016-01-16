@@ -77,6 +77,20 @@
             ]
           },
           "source_files": "Pod/Classes/Cloud/**/*.{h,m,c}"
+        },
+        {
+          "name": "WithLogging",
+          "dependencies": {
+            "StylingKit/Cloud/Main": [
+
+            ],
+            "StylingKit/WithLogging": [
+
+            ],
+            "GCDWebServer/WebDAV/CocoaLumberjack": [
+              "~> 3"
+            ]
+          }
         }
       ]
     }
