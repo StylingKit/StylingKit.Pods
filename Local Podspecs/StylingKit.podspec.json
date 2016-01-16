@@ -59,20 +59,26 @@
         ]
       },
       "xcconfig": {
-        "GCC_PREPROCESSOR_DEFINITIONS": "PX_LOGGING=1"
+        "GCC_PREPROCESSOR_DEFINITIONS": "STK_LOGGING=1"
       }
     },
     {
       "name": "Cloud",
-      "dependencies": {
-        "StylingKit/Main": [
+      "default_subspecs": "Main",
+      "subspecs": [
+        {
+          "name": "Main",
+          "dependencies": {
+            "StylingKit/Main": [
 
-        ],
-        "GCDWebServer/WebDAV/CocoaLumberjack": [
-          "~> 3"
-        ]
-      },
-      "source_files": "Pod/Classes/Cloud/**/*.{h,m,c}"
+            ],
+            "GCDWebServer/WebDAV": [
+              "~> 3"
+            ]
+          },
+          "source_files": "Pod/Classes/Cloud/**/*.{h,m,c}"
+        }
+      ]
     }
   ]
 }
