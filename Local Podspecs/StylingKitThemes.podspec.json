@@ -37,7 +37,7 @@
         {
           "name": "css",
           "resource_bundles": {
-            "StylingKitThemes-css": [
+            "StylingKitThemes-blue": [
               "Pod/Assets/blue/css/*.css"
             ]
           },
