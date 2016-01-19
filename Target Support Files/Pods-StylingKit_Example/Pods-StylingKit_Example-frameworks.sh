@@ -87,9 +87,11 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-StylingKit_Example/CocoaLumberjack.framework"
   install_framework "Pods-StylingKit_Example/GCDWebServer.framework"
   install_framework "Pods-StylingKit_Example/StylingKit.framework"
+  install_framework "Pods-StylingKit_Example/StylingKitThemes.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-StylingKit_Example/CocoaLumberjack.framework"
   install_framework "Pods-StylingKit_Example/GCDWebServer.framework"
   install_framework "Pods-StylingKit_Example/StylingKit.framework"
+  install_framework "Pods-StylingKit_Example/StylingKitThemes.framework"
 fi

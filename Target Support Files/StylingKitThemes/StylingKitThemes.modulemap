@@ -1,0 +1,6 @@
+framework module StylingKitThemes {
+  umbrella header "StylingKitThemes-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/freestyle/src/Freestyle-Version.h

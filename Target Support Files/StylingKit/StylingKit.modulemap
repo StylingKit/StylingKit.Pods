@@ -158,6 +158,7 @@ framework module StylingKit {
   private header "PXStyleUtils.h"
   private header "PXUtils.h"
   private header "PXViewUtils.h"
+  private header "Freestyle-Version.h"
   private header "NSObject+PXClass.h"
   private header "NSObject+PXSubclass.h"
   private header "NSObject+PXSwizzle.h"
@@ -215,5 +216,4 @@ framework module StylingKit {
   private header "UINavigationItem+PXStyling.h"
   private header "UITabBarItem+PXStyling.h"
   private header "PixateFreestyle.h"
-  private header "Version.h"
 }
